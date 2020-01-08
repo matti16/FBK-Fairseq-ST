@@ -94,6 +94,9 @@ ENV/
 .spyderproject
 .spyproject
 
+# Pycharm project settings
+.idea
+
 # Rope project settings
 .ropeproject
 
